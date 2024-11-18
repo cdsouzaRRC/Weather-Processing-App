@@ -111,7 +111,6 @@ def scrape_all_data():
 
 
 if __name__ == "__main__":
-    # Example usage
     weather = scrape_all_data()
 
     # Wrap the weather data in a top-level dictionary
